@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Library\\Library\\",
+  "WorkspaceRootPath": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|d:\\library\\library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|c:\\users\\adel.mostafa\\desktop\\library3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|d:\\library\\library\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|C:\\Users\\adel.mostafa\\Desktop\\Library3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|c:\\users\\adel.mostafa\\desktop\\library3\\home page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9404184-FEDC-43EB-93D1-F0843A31A991}|Library.csproj|solutionrelative:home page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home Page.xaml",
+              "DocumentMoniker": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\Home Page.xaml",
+              "RelativeDocumentMoniker": "Home Page.xaml",
+              "ToolTip": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\Home Page.xaml",
+              "RelativeToolTip": "Home Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T12:28:55.739Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Library\\Library\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Library\\Library\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-10T07:30:03.793Z",
               "EditorCaption": ""
@@ -36,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Library\\Library\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\Library\\Library\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\adel.mostafa\\Desktop\\Library3\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T07:30:02.717Z",
               "EditorCaption": ""

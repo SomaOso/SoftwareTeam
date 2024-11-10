@@ -1,0 +1,17 @@
+C:\Users\adel.mostafa\Desktop\Library3\bin\Debug\Library.exe.config
+C:\Users\adel.mostafa\Desktop\Library3\bin\Debug\Library.exe
+C:\Users\adel.mostafa\Desktop\Library3\bin\Debug\Library.pdb
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Home Page.g.cs
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\MainWindow.g.cs
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\App.g.cs
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library_MarkupCompile.cache
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library_MarkupCompile.lref
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Home Page.baml
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\MainWindow.baml
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.g.resources
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.Properties.Resources.resources
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.exe
+C:\Users\adel.mostafa\Desktop\Library3\obj\Debug\Library.pdb
